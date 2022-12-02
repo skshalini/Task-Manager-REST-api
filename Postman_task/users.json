@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "62238c739c8409e66fbd84eb"
+  },
+  "Username": "Jackk",
+  "email": "jackk@gmail.com",
+  "password": "$2a$10$M6u4qNZzmHI.PME4md8WG.aia3ds7UeowXae7l6Y5Opa.BLEvcimO",
+  "phn_no": 9999876622,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62239d2a4155fd2fc3b53d6f"
+  },
+  "Username": "Alisha",
+  "email": "ali346@gmail.com",
+  "password": "$2a$10$LaY14bjIOqRluqa/8DmCbORmbv0gdhOzSj.1Nk/w88gJdsYHz5Ypy",
+  "phn_no": 9806754367,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62239e514155fd2fc3b53d71"
+  },
+  "Username": "Nikky",
+  "email": "nicky@gmail.com",
+  "password": "$2a$10$lTZlW/MX4H9yAjRdBVGsgePQ6Eh9aZzU30JKNB26nYklyD694/v3u",
+  "phn_no": 8790645678,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62239ec44155fd2fc3b53d73"
+  },
+  "Username": "Jorge",
+  "email": "neckt@gmail.com",
+  "password": "$2a$10$dEEI3xwCgjXXjOeis3BDq.j9qQVTmrHD2EzZ4LB14DOk/zs//kdXy",
+  "phn_no": 9990876543,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62243090c1e573fc7262e4b6"
+  },
+  "Username": "john",
+  "email": "jkj@gmail.com",
+  "password": "$2a$10$FCMYcL2aNjQyeHmZH0mqDegLXhjTnnpXGqKHnK.XiBDqr.eDqokGa",
+  "phn_no": 9879654567,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622432e2c1e573fc7262e4bc"
+  },
+  "Username": "Stephen",
+  "email": "ttrh@gmail.com",
+  "password": "$2a$10$5y3cdEdK6eRmj5eNSZ2Ww.u/TbdRFDq72kBnZgouLrTYIX/qAHTKu",
+  "phn_no": 9706786543,
+  "__v": 0
+}]
